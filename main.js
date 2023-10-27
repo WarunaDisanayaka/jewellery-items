@@ -20,7 +20,7 @@ function main(){
     ],
 
     specWebARRocksFace: {
-      NNCPath: '../../neuralNets/NN_GLASSES_9.json',
+      NNCPath: 'NN_GLASSES_9.json',
       scanSettings: {
         threshold: 0.8,
         //translationScalingFactors: [0.07, 0.07, 0.1]
